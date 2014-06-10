@@ -1,0 +1,12 @@
+﻿<xapCache source="G:\winPhone\matrix\Bin\Debug\matrix_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="10.06.2014 2:22:32">
+  <file source="G:\winPhone\matrix\obj\Debug\matrix.dll" archivePath="matrix.dll" lastWriteTime="10.06.2014 2:22:31" />
+  <file source="G:\winPhone\matrix\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="10.06.2014 2:22:22" />
+  <file source="G:\winPhone\matrix\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="10.06.2014 2:22:22" />
+  <file source="G:\winPhone\matrix\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="10.06.2014 2:22:22" />
+  <file source="G:\winPhone\matrix\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="10.06.2014 2:22:22" />
+  <file source="G:\winPhone\matrix\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="10.06.2014 2:22:22" />
+  <file source="G:\winPhone\matrix\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="10.06.2014 2:22:32" />
+  <file source="G:\winPhone\matrix\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="10.06.2014 2:22:22" />
+  <file source="G:\winPhone\matrix\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="10.06.2014 2:22:22" />
+  <file source="G:\winPhone\matrix\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="10.06.2014 2:22:32" />
+</xapCache>
